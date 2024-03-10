@@ -9,7 +9,7 @@
 
 #### 安装教程
 - 运行flask.py文件
-- 运行 命令 ` npm run server`
+- 运行 命令 ` npm run serve`
 
 #### 软件功能
 
